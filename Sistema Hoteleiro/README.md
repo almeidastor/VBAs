@@ -16,6 +16,7 @@
 
 🔹 [Rodando a aplicação](#rodando-a-aplicação)
 
+🔹 [Possíveis Erros](#possíveis-erros)
 
 
 ## Descrição do projeto 
@@ -23,9 +24,13 @@
   Planilha em Excel que simula um sistema hoteleiro, realiza cadastros, consultas, cálculos e exclusão de dados.
 </p>
 
+
+
 ## Pré-requisitos
 * Ter o Microsoft Office Excel instalado
 * Ter o  Microsoft Date and Time Picker Control 6.0 (SP6) instalado [(Confira Aqui)](#instalação-e-ativação)
+
+
 
 ## Instalação e ativação
 Primeiramente faça download do módulo <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/MSCOMCT2.zip" download>Microsoft Date and Time Picker</a> e extraia o arquivo da pasta zipada.
@@ -52,11 +57,26 @@ Busque a Aba do Desenvolvedor na Página Inicial e selecione no menu a opção <
   
 <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/desenvolvedoractiv.png"></p>
   
-Selecione a opção Microsoft Date and Time Picker Control 6.0 (SP6)
+Selecione a opção Microsoft Date and Time Picker Control 6.0 (SP6) e clique em OK
 <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/desenvolvedorcontroles.jpg"></p>
+
+Assim sua aplicação está pronta para ser rodada (ou confira [Possíveis Erros](#possíveis-erros))
+  
   
 
 ## Rodando a aplicação
 Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilite
 
   <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/ativacaoexcel.png"></p>
+  
+  
+  
+## Possíveis Erros
+> Erro de Compilação: É impossivel localizar o projeto ou a biblioteca
+Se ao clicar em algum elemento da planilha, e o alerta Erro de Compilação aparecer, busque a opção de <b>Referências</b> na aba de <b>Ferramentas</b> e então desabilite as caixas marcadas como [AUSENTE]
+
+
+  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/errodecompiler.jpg"></p>
+  
+  
+  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/erroobjetoausente.GIF"></p>
