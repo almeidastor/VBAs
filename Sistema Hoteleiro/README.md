@@ -85,3 +85,36 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
   
   
   <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/erroobjetoausente.GIF"></p>
+  
+  
+  ## Planilhas
+  * Aba Hotel
+
+
+  * Aba Banco de Dados
+
+
+  * Aba Valores
+
+  ## Planilhas
+  * Aba Hotel
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/abahotel.jpg"></p>
+
+  * Aba Banco de Dados
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/ababcodados.jpg"></p>
+
+  * Valores
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/abavalores.jpg"></p>
+
+
+  ## Telas
+  * Botão Novo Cadastro
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/btninserir.png"></p>
+
+  * Botão Consulta e Edições   
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/btnconed.png"></p>
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/btnconsulta.png"></p>
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/btnedicoes.png"></p>
+
+* Botão Reajuste
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/btnreajust.png"></p>
