@@ -5,4 +5,4 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<img src="README-repository/cover.jpg">
+<img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/cover.jpg">
