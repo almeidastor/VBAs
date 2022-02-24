@@ -121,3 +121,9 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
 
   ## Desenvolvedor
   [<img src="https://avatars.githubusercontent.com/u/54381136?v=4" width=115><br><sub>Regiane Almeida</sub>](https://github.com/almeidastor)
+
+## Licença 
+
+The [MIT License]() (MIT)
+
+Copyright :copyright: Ano - Titulo do Projeto
