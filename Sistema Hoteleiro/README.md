@@ -6,3 +6,4 @@
 </p>
 
 <img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/cover.jpg">
+> Planilha em Excel que simula um sistema hoteleiro, que faz cadastros, alterações, consultas e exclusões de dados.
