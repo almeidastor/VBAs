@@ -1,2 +1,2 @@
 # VBAs
-📚 Diversas planilhas em Excel com linguagem VBA
+📚 Planilhas em Excel com linguagem VBA
