@@ -46,7 +46,7 @@ Em seguida aparecerá a mensagem de confirmação</br>
 
 Execute o Arquivo <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/Sistema%20Hoteleiro.xlsm" download>Sistema Hoteleiro.xlsm</a> e  [faça as ativações necessárias](#rodando-a-aplicação)
 
-Habilite a guia do Desenvolvedor (Na aba <b>Arquivos</b> > <b>Opções</b> > <b>Personalizar Faixa de Opções</b> e no quadro da direita habilite a caixa de [x] Desenvolvedor) 
+Habilite a guia do Desenvolvedor (Na aba <b>Arquivos</b> > <b>Opções</b> > <b>Personalizar Faixa de Opções</b> e no quadro da direita habilite a box do <b> Desenvolvedor</b>) 
 
 
 ## Rodando a aplicação
