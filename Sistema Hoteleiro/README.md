@@ -120,4 +120,4 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
 <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/btnreajust.png"></p>
 
   ## Desenvolvedor
-  | [<img src="https://avatars.githubusercontent.com/u/54381136?v=4" width=115><br><sub>Regiane Almeida</sub>](https://github.com/almeidastor) |
+  [<img src="https://avatars.githubusercontent.com/u/54381136?v=4" width=115><br><sub>Regiane Almeida</sub>](https://github.com/almeidastor)
