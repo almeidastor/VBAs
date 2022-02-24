@@ -12,6 +12,8 @@
 
 🔹 [Pré-requisitos](#pré-requisitos)
 
+🔹 [Instalação de Recursos](#instalação-de-recursos)
+
 
 
 ## Descrição do projeto 
@@ -21,3 +23,6 @@
 
 ## Pré-requisitos
 * Ter o Microsoft Office Excel instalado
+* Ter o  Microsoft Date and Time Picker Control 6.0 (SP6) instalado [(Confira Aqui)](#instalação-de-recursos)
+
+## Instalação de Recursos
