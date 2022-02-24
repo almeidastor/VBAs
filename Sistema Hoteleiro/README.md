@@ -18,6 +18,10 @@
 
 🔹 [Possíveis Erros](#possíveis-erros)
 
+🔹 [Planilhas](#planilhas)
+
+🔹 [Telas](#telas)
+
 
 ## Descrição do projeto 
 <p align="justify">
