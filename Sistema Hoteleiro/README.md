@@ -8,9 +8,9 @@
 <img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/cover.jpg">
 
 ### Sumário
-• [Descrição do projeto](#descrição-do-projeto)
+🔹 [Descrição do projeto](#descrição-do-projeto)
 
-• [Pré-requisitos](#pré-requisitos)
+🔹 [Pré-requisitos](#pré-requisitos)
 
 
 
@@ -20,3 +20,4 @@
 </p>
 
 ## Pré-requisitos
+* Ter o Microsoft Office Excel instalado
