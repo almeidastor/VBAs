@@ -32,5 +32,10 @@ Primeiramente faça download do módulo <a href="https://github.com/almeidastor/
 * Mova o arquivo mscomct2.ocx para a pasta C:\Windows\System32
 * Execute o Prompt de Comando como Admnistrador e digite C:\Windows\System32\regsvr32.exe mscomct2.ocx
 
+
 ><h4>Windows 64bits</h4>
-Mova o arquivo mscomct2.ocx para a pasta C:\Windows\SysWoW64
+* Mova o arquivo mscomct2.ocx para a pasta C:\Windows\SysWoW64
+* Execute o Prompt de Comando como Admnistrador e digite C:\Windows\SysWoW64\regsvr32.exe mscomct2.ocx
+
+Em seguida aparecerá a mensagem de confirmação
+<img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/instalacaoregistered.png">
