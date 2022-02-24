@@ -5,7 +5,7 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/cover.jpg">
+ <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/cover.jpg"></p>
 
 ### Sumário
 🔹 [Descrição do projeto](#descrição-do-projeto)
@@ -48,9 +48,13 @@ Execute o Arquivo <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%
 
 Habilite a guia do Desenvolvedor (Na aba <b>Arquivos</b> > <b>Opções</b> > <b>Personalizar Faixa de Opções</b> : e no quadro da direita habilite a box do <b> Desenvolvedor</b>) 
 
-Busque a Aba do Desenvolvedor na Página Inicial e selecione no menu a opção <b>Inserir</b> e em seguida escolha a ultima opção <b>Mais controles</b>
+Busque a Aba do Desenvolvedor na Página Inicial e selecione no menu a opção <b>Inserir</b> e em seguida escolha a ultima opção <b>Mais controles</b> representado pelos icones das ferramentas (circulado em vermelho)
   
-  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/desenvolvedoractiv.png"></p>
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/desenvolvedoractiv.png"></p>
+  
+Selecione a opção Microsoft Date and Time Picker Control 6.0 (SP6)
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/desenvolvedorcontroles.jpg"></p>
+  
 
 ## Rodando a aplicação
 Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilite
