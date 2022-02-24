@@ -26,4 +26,8 @@
 * Ter o  Microsoft Date and Time Picker Control 6.0 (SP6) instalado [(Confira Aqui)](#instalação-e-ativação)
 
 ## Instalação e ativação
-Primeiramente faça download do módulo Microsoft Date and Time Picker <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/MSCOMCT2.zip" download>(Clique aqui) </a>
+Primeiramente faça download do módulo Microsoft Date and Time Picker <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/MSCOMCT2.zip" download>(Clique aqui) </a> e extraia o arquivo da pasta zipada.
+
+*<h3>Windows 32bits</h3>
+k
+*<h3>Windows 64bits</h3>
