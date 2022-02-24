@@ -8,20 +8,20 @@
 <img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/cover.jpg">
 
 ### Sumário
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+• [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+• [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+• [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+• [Pré-requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+• [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 
 ## Descrição do projeto 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  Planilha em Excel que simula um sistema hoteleiro, realiza cadastros, consultas, cálculos e exclusão de dados.
 </p>
 
 ## Funcionalidades
