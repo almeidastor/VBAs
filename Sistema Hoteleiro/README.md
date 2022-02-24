@@ -50,6 +50,6 @@ Habilite a guia do Desenvolvedor (Na aba <b>Arquivos</b> > <b>Opções</b> > <b>
 
 Busque a Aba do Desenvolvedor na Página Inicial e selecione no menu a opção <b>Inserir</b> e em seguida escolha a ultima opção <b>Mais controles</>
   
-  <img align="center" src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/desenvolvedoractiv.png">
+  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/desenvolvedoractiv.png"></p>
 
 ## Rodando a aplicação
