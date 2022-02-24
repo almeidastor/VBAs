@@ -126,4 +126,4 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright © 2022 - Sistema Hoteleiro
