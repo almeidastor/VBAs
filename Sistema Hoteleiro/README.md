@@ -29,4 +29,8 @@
 Primeiramente faça download do módulo Microsoft Date and Time Picker <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/MSCOMCT2.zip" download>(Clique aqui) </a> e extraia o arquivo da pasta zipada.
 
 ><h4>Windows 32bits</h4>
+* Mova o arquivo mscomct2.ocx para a pasta C:\Windows\System32
+* Execute o Prompt de Comando como Admnistrador e digite C:\Windows\System32\regsvr32.exe mscomct2.ocx
+
 ><h4>Windows 64bits</h4>
+Mova o arquivo mscomct2.ocx para a pasta C:\Windows\SysWoW64
