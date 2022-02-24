@@ -73,7 +73,7 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
   
 ## Possíveis Erros
 > Erro de Compilação: É impossivel localizar o projeto ou a biblioteca
-Se ao clicar em algum elemento da planilha, e o alerta Erro de Compilação aparecer, busque a opção de <b>Referências</b> na aba de <b>Ferramentas</b> e então desabilite as caixas marcadas como [AUSENTE]
+Se ao clicar em algum elemento da planilha, e o alerta Erro de Compilação aparecer, busque a opção de <b>Referências</b> na aba de <b>Ferramentas</b> e então desabilite as caixas marcadas como AUSENTE:
 
 
   <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/errodecompiler.jpg"></p>
