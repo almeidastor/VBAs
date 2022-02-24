@@ -41,7 +41,7 @@ Primeiramente faça download do módulo <a href="https://github.com/almeidastor/
 
 Em seguida aparecerá a mensagem de confirmação</br>
 
-<img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/instalacaoregistered.png">
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/instalacaoregistered.png"></p>
 
 
 Execute o Arquivo <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/Sistema%20Hoteleiro.xlsm" download>Sistema Hoteleiro.xlsm</a> e  [faça as ativações necessárias](#rodando-a-aplicação)
