@@ -28,6 +28,5 @@
 ## Instalação e ativação
 Primeiramente faça download do módulo Microsoft Date and Time Picker <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/MSCOMCT2.zip" download>(Clique aqui) </a> e extraia o arquivo da pasta zipada.
 
-*<h3>Windows 32bits</h3>
-k
-*<h3>Windows 64bits</h3>
+<h5>Windows 32bits</h5>
+<h5>Windows 64bits</h5>
