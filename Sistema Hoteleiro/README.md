@@ -48,8 +48,11 @@ Execute o Arquivo <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%
 
 Habilite a guia do Desenvolvedor (Na aba <b>Arquivos</b> > <b>Opções</b> > <b>Personalizar Faixa de Opções</b> : e no quadro da direita habilite a box do <b> Desenvolvedor</b>) 
 
-Busque a Aba do Desenvolvedor na Página Inicial e selecione no menu a opção <b>Inserir</b> e em seguida escolha a ultima opção <b>Mais controles</>
+Busque a Aba do Desenvolvedor na Página Inicial e selecione no menu a opção <b>Inserir</b> e em seguida escolha a ultima opção <b>Mais controles</b>
   
   <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/desenvolvedoractiv.png"></p>
 
 ## Rodando a aplicação
+Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilite
+
+  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/ativacaoexcel.png"></p>
