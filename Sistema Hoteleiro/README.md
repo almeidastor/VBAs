@@ -14,6 +14,8 @@
 
 🔹 [Instalação e ativação](#instalação-e-ativação)
 
+🔹 [Rodando a aplicação](#rodando-a-aplicação)
+
 
 
 ## Descrição do projeto 
@@ -41,4 +43,10 @@ Em seguida aparecerá a mensagem de confirmação</br>
 
 <img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/instalacaoregistered.png">
 
-Execute o Arquivo <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/Sistema%20Hoteleiro.xlsm" download>Sistema Hoteleiro.xlsm</a> 
+
+Execute o Arquivo <a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/Sistema%20Hoteleiro.xlsm" download>Sistema Hoteleiro.xlsm</a> e  [faça as ativações necessárias](#rodando-a-aplicação)
+
+Habilite a guia do Desenvolvedor (Na aba <b>Arquivos</b> > <b>Opções</b> > <b>Personalizar Faixa de Opções</b> e no quadro da direita habilite a caixa de [x] Desenvolvedor) 
+
+
+## Rodando a aplicação
