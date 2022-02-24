@@ -28,4 +28,4 @@
 ## Instalação e ativação
 Primeiramente faça download do módulo 
 
-<a href="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/MSCOMCT2.zip" download>Clique aqui </a>
+<a href="https://github.com/almeidastor/VBAs/raw/main/Sistema%20Hoteleiro/MSCOMCT2.zip" download>Clique aqui </a>
