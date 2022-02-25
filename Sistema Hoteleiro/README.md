@@ -127,4 +127,4 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
 
 The [MIT License]() (MIT)
 
-Copyright © 2022 - Sistema Hoteleiro
+Copyright © 2018 - Sistema Hoteleiro
