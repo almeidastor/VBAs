@@ -42,7 +42,7 @@ Selecione a opção Importar_XLS e clique na opção <b>Depurar</b>
  
  Ao abrir o ambiente VBA, o código deverá ser editado conforme as linhas selecionadas
  
- <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Planilha%20Copiar-Colar/Readme-repository/codemacro.jpg" width=415></p>
+ <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Planilha%20Copiar-Colar/Readme-repository/codemacro.png" width=415></p>
 
 * <b><u>sPath="C:\Users\Usuario\Desktop\NomedaPasta\"</u></b></br>
 Deve ser alterada com o caminho onde as planilhas que serão lidas estão (o caminho deve sempre estar entre aspas e ter uma barra \ no final)
