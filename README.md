@@ -14,6 +14,6 @@
   
   
 ## Sistema Hoteleiro
-> Planilha em Excel que simula um sistema hoteleiro, realiza cadastros, consultas, cálculos e exclusão de dados.
-> Repositório <a href="https://github.com/almeidastor/VBAs/tree/main/Sistema%20Hoteleiro" target="_blank">Repositório</a>
+> Planilha em Excel que simula um sistema hoteleiro, realiza cadastros, consultas, cálculos e exclusão de dados.</br>
+> <a href="https://github.com/almeidastor/VBAs/tree/main/Sistema%20Hoteleiro">Repositório</a>
   
