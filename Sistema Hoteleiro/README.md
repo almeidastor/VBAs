@@ -87,14 +87,6 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
   <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/erroobjetoausente.GIF"></p>
   
   
-  ## Planilhas
-  * Aba Hotel
-
-
-  * Aba Banco de Dados
-
-
-  * Aba Valores
 
   ## Planilhas
   * Aba Hotel
