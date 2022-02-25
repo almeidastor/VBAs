@@ -44,5 +44,5 @@ Selecione a opção Importar_XLS e clique na opção <b>Depurar</b>
  
  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Planilha%20Copiar-Colar/Readme-repository/codemacro.jpg" width=415></p>
 
-* <b>sPath="C:\Users\Usuario\Desktop\NomedaPasta\"</b>
+* <b>sPath="C:\Users\Usuario\Desktop\NomedaPasta\"</b></br>
 deve ser alterada com o caminho onde as planilhas serão lidas estão (o caminho deve sempre estar entre aspas e ter uma barra \ no final)
