@@ -15,7 +15,6 @@
 🔹 [Rodando a aplicação](#rodando-a-aplicação)
 
 
-🔹 [Planilhas](#planilhas)
 
 
 
@@ -36,17 +35,4 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
 
   <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Planilha%20Copiar-Colar/Readme-repository/ativacaoexcel.png"></p>
   
-  
-
-  ## Planilhas
-  * Aba Planilha1
-<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Planilha%20Copiar-Colar/Readme-repository/cover.png"></p>
-
-
-
-
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright © 2018 - Planilha Copiar-Colar
+Aperte as teclas <b><red<Alt+F8</red></b>
