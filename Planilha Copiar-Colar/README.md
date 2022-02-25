@@ -5,7 +5,7 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
- <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/cover.jpg"></p>
+ <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Planilha%20Copiar-Colar/Readme-repository/cover.png"></p>
 
 ### Sumário
 🔹 [Descrição do projeto](#descrição-do-projeto)
@@ -14,7 +14,6 @@
 
 🔹 [Rodando a aplicação](#rodando-a-aplicação)
 
-🔹 [Possíveis Erros](#possíveis-erros)
 
 🔹 [Planilhas](#planilhas)
 
@@ -40,14 +39,9 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
   
 
   ## Planilhas
-  * Aba Hotel
-<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/abahotel.jpg"></p>
+  * Aba Planilha1
+<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Planilha%20Copiar-Colar/Readme-repository/cover.png"></p>
 
-  * Aba Banco de Dados
-<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/ababcodados.jpg"></p>
-
-  * Valores
-<p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/abavalores.jpg"></p>
 
 
 
@@ -55,4 +49,4 @@ Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilit
 
 The [MIT License]() (MIT)
 
-Copyright © 2018 - Sistema Hoteleiro
+Copyright © 2018 - Planilha Copiar-Colar
