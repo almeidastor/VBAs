@@ -35,30 +35,9 @@
 ## Rodando a aplicação
 Assim que abrir a planilha, localize os alertas de Edição e Macro e os habilite
 
-  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/ativacaoexcel.png"></p>
+  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Planilha%20Copiar-Colar/Readme-repository/ativacaoexcel.png"></p>
   
   
-  
-## Possíveis Erros
-* Erro de Compilação: É impossivel localizar o projeto ou a biblioteca
-
->Se ao clicar em algum elemento da planilha, e o alerta Erro de Compilação aparecer, busque a opção de <b>Referências</b> na aba de <b>Ferramentas</b> e então desabilite as caixas marcadas como AUSENTE:
-
-
-  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/errodecompiler.jpg"></p>
-  
-  
-  <p align="center"><img src="https://github.com/almeidastor/VBAs/blob/main/Sistema%20Hoteleiro/README-repository/erroobjetoausente.GIF"></p>
-  
-  
-  ## Planilhas
-  * Aba Hotel
-
-
-  * Aba Banco de Dados
-
-
-  * Aba Valores
 
   ## Planilhas
   * Aba Hotel
