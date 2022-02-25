@@ -6,14 +6,13 @@
   <img src="https://img.shields.io/static/v1?label=VBA&message=MsWord&color=blue&style=for-the-badge&logo=microsoftoffice"/>
   <img src="https://img.shields.io/static/v1?label=VBA&message=MsExcel&color=green&style=for-the-badge&logo=microsoftoffice"/>
   <img src="https://img.shields.io/static/v1?label=VBA&message=MsPowerpoint&color=orange&style=for-the-badge&logo=microsoftoffice"/>
-  <img src="https://img.shields.io/static/v1?label=VBA&message=Access&color=red&style=for-the-badge&logo=microsoftoffice"/><p> 
+  <img src="https://img.shields.io/static/v1?label=VBA&message=MsAccess&color=red&style=for-the-badge&logo=microsoftoffice"/><p> 
  
 ## Lista de Projetos
 * [Planilha Copiar-Colar](#planilha-copiar-colar)
   
 * [Sistema Hoteleiro](#sistema-hoteleiro)
-  
-  
+</br></br>  
   
 ## Planilha Copiar-Colar
 > Planilha em Excel que copia o conteúdo de todas as planilhas de uma determinada pasta e cola na principal.</br>
